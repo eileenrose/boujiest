@@ -550,9 +550,11 @@ a:hover, a:active {
     text-decoration: none;
 }
 
-.site-navigation ul li a:hover,
+.site-navigation ul li a:hover {
+  color: green;
+}
 .site-navigation ul li.current-menu-item a {
-    color: #30df7a;
+    color: blue;
 }
 
 @media screen and (min-width: 992px) {
