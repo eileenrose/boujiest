@@ -1,8 +1,10 @@
 #questions{
-  background-color: #ef87ff;
+  background-color: #d8dcff;
   padding: 20px;
   margin: 50px;
   font-family: "American Typewriter", serif;
+  border-right-style: dotted;
+  border-left-style: dotted;
 }
 
 
